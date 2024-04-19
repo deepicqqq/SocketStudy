@@ -1,4 +1,6 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a   Study of Socket Programming
+NAME:DEEPIKA P\
+REFERENCE NO:212223240024
 
 ## Aim: 
 To perform a study on Socket Programming
